@@ -10,6 +10,8 @@
 
 ![About](./Screenshot1.png)
 
+![Diagram](./diagram-export-3-1-2024-5_00_40-PM.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
