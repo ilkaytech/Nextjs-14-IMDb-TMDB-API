@@ -2,7 +2,7 @@
 
 ## Outcome
 
-[Live](https://)
+[Live](https://nextjs14-imdb-tmdb-api.vercel.app/about)
 
 ### Screenshot:
 
